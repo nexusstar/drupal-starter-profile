@@ -9,7 +9,9 @@ api = 2
 ; Drush make allows a default sub directory for all contributed projects.
 defaults[projects][subdir] = contrib
 
+; ------------------------
 ; Contributed Modules
+; ------------------------
 
 projects[admin_menu][version] = "3.0-rc5"
 projects[admin_menu][type] = "module"
@@ -47,10 +49,12 @@ projects[views][type] = "module"
 projects[views_bulk_operations][version] = "3.2"
 projects[views_bulk_operations][type] = "module"
 
+; ------------------------
 ; Contributed Themes
+; ------------------------
 
 projects[bootstrap][version] = "3.0"
-projects[bootstrap][type] = "module"
+projects[bootstrap][type] = "theme"
 
 projects[adminimal_theme][version] = "1.21"
-projects[bootstrap][type] = "module"
+projects[adminimal_theme][type] = "theme"
