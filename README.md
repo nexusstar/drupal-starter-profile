@@ -1,3 +1,5 @@
+Forked from [GuGuss/drupal-starter-profile](https://github.com/GuGuss/drupal-starter-profile)
+
 # How to use ?
 
 The STARTER_PROFILE is a starter Drupal 7 installation profile that you can extend to build your Drupal sites.
@@ -15,9 +17,9 @@ Here is what you need to use the STARTER_PROFILE:
 
 ### 1. Download it
 
-Download the [archive](https://github.com/GuGuss/starter-profile/archive/master.zip) or clone the repository:
+Download the [archive](https://github.com/nexusstar/drupal-starter-profile/archive/master.zip) or clone the repository:
 ```
-$ git clone https://github.com/GuGuss/starter-profile.git
+$ git clone https://github.com/nexusstar/drupal-starter-profile.git
 ```
 
 ### 2. Rename it
@@ -57,7 +59,7 @@ To change Drupal Core version, edit ``drupal-core.make``.
 
 #### Applying patches
 
-To apply a patch to a mocule (ie: Views), simply add the following line on your ``yourprofilename.make``:
+To apply a patch to a module (ie: Views), simply add the following line on your ``yourprofilename.make``:
 ```
 projects[views][patch][] = "http://drupal.org/files/views-entity_label-1651726-26.patch"
 ```
