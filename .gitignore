@@ -1,6 +1,9 @@
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
 
+#IDE specific
+.idea
+
 # Ignore paths that contain generated content.
 cache/
 files/
