@@ -91,7 +91,7 @@ This should download the contributed projects (modules, themes...) within your p
 Let's use Drush to *build Drupal core*:
 ```
 $ cd ..
-$ drush make yourprofile/drupal-core.make www
+$ drush make yourprofile/project-core.make www
 ```
 
 This should download Drupal Core within the ``www`` folder:
