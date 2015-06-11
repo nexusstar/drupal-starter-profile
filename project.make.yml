@@ -58,6 +58,8 @@ projects:
     version: ~
   entityreference:
     version: ~
+  module_filter:
+    version: ~
   features:
     version: ~
   i18n:
@@ -66,8 +68,11 @@ projects:
     version: ~
   views:
     version: ~
+  variable:
+      version: ~
   views_bulk_operations:
     version: ~
+
 
   # Themes
   # --------
