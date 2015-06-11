@@ -78,6 +78,16 @@ projects:
     type: theme
     version: ~
 
+ # Clone a project from github.
+  starter_theme:
+    type: theme
+    download:
+      url: "git://github.com/nexusstar/drupal-bootstrap-starter-theme.git"
+    # If you want to install a module into a sub-directory, you can use the
+    # `subdir` attribute.
+    subdir: "custom"
+
+
 # If all projects or libraries share common attributes, the `defaults`
 # array can be used to specify these globally, rather than
 # per-project.
