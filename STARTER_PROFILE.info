@@ -32,6 +32,7 @@ dependencies[] = module_filter
 dependencies[] = devel
 dependencies[] = entity
 dependencies[] = entityreference
+dependencies[] = jquery_update
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations

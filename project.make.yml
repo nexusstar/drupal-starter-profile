@@ -58,6 +58,8 @@ projects:
     version: ~
   entityreference:
     version: ~
+  jquery_update:
+    version: ~
   module_filter:
     version: ~
   features:
