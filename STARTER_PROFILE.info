@@ -16,6 +16,7 @@ dependencies[] = locale
 dependencies[] = taxonomy
 dependencies[] = translation
 dependencies[] = path
+dependencies[] = overlay
 dependencies[] = update
 
 
@@ -34,6 +35,7 @@ dependencies[] = entityreference
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations
+
 
 ; ---------------
 ; Enable Features
