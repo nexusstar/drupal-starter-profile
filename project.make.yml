@@ -36,8 +36,8 @@ api: 2
 #       url: "http://git.drupal.org/project/drupal.git"
 
 projects:
-#  drupal:
-#    version: ~
+  drupal:
+    version: ~
 
   # Projects
   # --------
