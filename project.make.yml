@@ -90,6 +90,7 @@ projects:
     type: theme
     download:
       url: "git://github.com/nexusstar/drupal-bootstrap-starter-theme.git"
+      branch: "less"
     # If you want to install a module into a sub-directory, you can use the
     # `subdir` attribute.
     subdir: "custom"
