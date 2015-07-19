@@ -35,9 +35,9 @@ api: 2
 #     download:
 #       url: "http://git.drupal.org/project/drupal.git"
 
-projects:
-  drupal:
-    version: ~
+#projects:
+#drupal:
+#    version: ~
 
   # Projects
   # --------
